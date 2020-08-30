@@ -85,5 +85,19 @@ In the recovery menu:
 * Restart phone
 
 
+## Plenty of free space
 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/voltcraft1/cubot_P20/master/freespaceFiles.png"
+  alt="Treble info"
+  width="400" >
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/voltcraft1/cubot_P20/master/storage.png"
+  alt="Treble info"
+  width="400" >
+</p>
 
